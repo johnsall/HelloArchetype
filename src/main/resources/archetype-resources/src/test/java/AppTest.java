@@ -1,3 +1,5 @@
+import com.amido.App;
+
 import static org.junit.Assert.*;
 
 public class AppTest {
